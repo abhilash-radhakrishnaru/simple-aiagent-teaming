@@ -1,0 +1,3 @@
+agno
+uvicorn
+python-dotenv
