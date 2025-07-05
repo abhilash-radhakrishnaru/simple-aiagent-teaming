@@ -1,0 +1,14 @@
+[project]
+name = "aiagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno",
+    "uvicorn",
+    "python-dotenv",
+    "ollama>=0.5.1",
+    "duckduckgo-search>=8.0.4",
+    "yfinance>=0.2.63",
+]
